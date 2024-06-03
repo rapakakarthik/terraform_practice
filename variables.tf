@@ -24,8 +24,8 @@ variable "resource_tags" {
 }
 
 variable "tags" {
-    type = string
-    default = "alpha-resources"
-  
+  type    = string
+  default = "alpha-resources"
+
 }
 
